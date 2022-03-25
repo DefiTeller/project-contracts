@@ -1,5 +1,9 @@
 {
-    "contracts": {},
+    "contracts": {
+        "1": [
+            "aaaaaaaaaaaaaa"
+        ]
+    },
     "collected": {
         "1": [
             "0x00040A7ebfc9F6Fbce4D23bD66b79A603Ba1c323",
