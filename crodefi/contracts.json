@@ -1,7 +1,5 @@
 {
-    "contracts": {
-        "1":["000000"]
-    },
+    "contracts": {},
     "collected": {
         "1": [
             "0x9EF7e917Fb41cC02f78A5C99b42f497eD8979350",
